@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Keep generated projects and media outside this skill repository.
+my-video/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "戲劇片頭 AI 畫風影片"
+  short_description: "逐鏡重建戲劇片頭與AI對照，畫風、版型、字幕和聲音皆可設定"
+  default_prompt: "使用 $drama-opening-ai-video，依我提供的戲劇影片和畫風參考製作同步對照影片，先沿用已指定選項，再補齊需要的設定。"
